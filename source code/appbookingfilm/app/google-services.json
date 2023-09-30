@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602618580793",
+    "project_id": "appbookingfilm",
+    "storage_bucket": "appbookingfilm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602618580793:android:c38e193f5ede46073262e8",
+        "android_client_info": {
+          "package_name": "com.example.appbookingfilm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602618580793-v81htik94n03e65kotg89tac6l7r0a17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArd18pCqTDCoPlsI5Mt120WR5pTVaw9OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602618580793-v81htik94n03e65kotg89tac6l7r0a17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
